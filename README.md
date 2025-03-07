@@ -1,5 +1,5 @@
 # SRAM-Mobile-Take-Home
-<sub>Tristan Opbroke</sub>
+<sub>Tristan Opbroek</sub>
 
 ## Installation Instructions:
 Uses Android Studio Meerkat
