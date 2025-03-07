@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SRAM-Take-Home</string>
+    <string name="title_activity_oauth_redirect">OAuthRedirect</string>
+</resources>
